@@ -1,1 +1,4 @@
-" # Git Lab Project(Main Branch Version)" 
+# Git Lab Project
+
+## About
+This project is a Git practice lab.
